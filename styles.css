@@ -4,8 +4,10 @@
 * {
     color: white;
     background-color: black;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 .back {
     color: blue;
+    font-weight: bold;
 }
